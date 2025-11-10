@@ -1,0 +1,1 @@
+loot give @a loot game:game/tools/forgotten_pickaxe

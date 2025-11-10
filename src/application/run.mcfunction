@@ -1,0 +1,1 @@
+scoreboard players set Scene.Start Game.Timers 200

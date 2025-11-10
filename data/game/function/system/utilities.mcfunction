@@ -1,0 +1,1 @@
+execute as @e[type=interaction] at @s run function game:system/utilities/click_call with entity @s data.Data

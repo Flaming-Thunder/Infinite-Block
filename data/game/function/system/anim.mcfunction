@@ -1,0 +1,1 @@
+execute if score Scene.Start Game.Timers matches 1.. run function game:system/anim/internal0

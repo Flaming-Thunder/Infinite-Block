@@ -1,0 +1,37 @@
+{"pools": [{"rolls": 1,"entries": [{
+
+  "type": "item",
+  "name": "stick",
+
+  "functions": [{"function": "set_components","components": {
+
+    "item_model":"wooden_pickaxe",
+    "item_name": [{
+      "text": "Forgotten Pickaxe",
+      "color": "gray"
+    }],
+    
+    "lore": [
+      [{
+        "text": "An ancient pickaxe forgotten by Time",
+        "color": "dark_gray"
+      }],[{"text":""}],[{
+        "text":"+1 Mining",
+        "color": "dark_green",
+        "italic": false
+      }]
+    ],
+    
+    "custom_data":{
+
+      "Mining_Level": 1
+
+    },
+    
+    
+    "tooltip_display": {"hidden_components": ["attribute_modifiers"]},
+    "attribute_modifiers":[{"amount": 10000,"id": "1","operation": "add_value","type": "attack_speed"}]
+
+  }}]
+
+}]}]}

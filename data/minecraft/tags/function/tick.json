@@ -1,0 +1,7 @@
+{
+  "values": [
+    "game:system/tick",
+    "game:system/anim",
+    "game:system/utilities"
+  ]
+}
